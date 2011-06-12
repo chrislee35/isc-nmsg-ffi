@@ -3,7 +3,7 @@ module Nmsg
 		class Input
 			DEFAULT_COUNT = -1
 			def close
-				rv = Nmsg.nmsg_input_close(@input)
+				Nmsg.nmsg_input_close(@input)
 			end
 
 			def ptr
@@ -20,7 +20,7 @@ module Nmsg
 				cnt = (opts[:count] || DEFAULT_COUNT)
 				h = opts[:handler]
 				usr = opts[:usr]
-				rv = Nmsg.nmsg_input_loop(@input, cnt, _wrap_callback(h, block), usr)
+				Nmsg.nmsg_input_loop(@input, cnt, _wrap_callback(h, block), usr)
 			end
 
 			def _wrap_callback(h, block)

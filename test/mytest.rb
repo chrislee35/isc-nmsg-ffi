@@ -25,7 +25,7 @@ end
 
 res = Nmsg.nmsg_init
 io = Nmsg.nmsg_io_init
-f = File.new("/Users/chris/Documents/projects/rubygems/isc-nmsg-ffi/test/test.nmsg")
+f = File.new("test.nmsg")
 input = Nmsg.nmsg_input_open_file(f.fileno)
 res = Nmsg.nmsg_io_add_input(io, input, nil)
 callback = lambda { |msg,usr|

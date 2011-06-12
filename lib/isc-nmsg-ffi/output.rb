@@ -142,17 +142,17 @@ module Nmsg
 	# nmsg_output_t nmsg_output_open_callback(nmsg_cb_message cb, void *user);
 	attach_function :nmsg_output_open_callback, :nmsg_output_open_callback, [:nmsg_cb_message,:pointer], :pointer
 	# nmsg_res nmsg_output_flush(nmsg_output_t output);
-	attach_function :nmsg_output_flush, :nmsg_output_flush, [:pointer], :int
+	attach_function :nmsg_output_flush, :nmsg_output_flush, [:pointer], Res
 	# nmsg_res nmsg_output_write(nmsg_output_t output, nmsg_message_t msg);
-	attach_function :nmsg_output_write, :nmsg_output_write, [:pointer,:pointer], :int
+	attach_function :nmsg_output_write, :nmsg_output_write, [:pointer,:pointer], Res
 	# nmsg_res nmsg_output_close(nmsg_output_t *output);
-	attach_function :nmsg_output_close, :nmsg_output_close, [:pointer], :int
+	attach_function :nmsg_output_close, :nmsg_output_close, [:pointer], Res
 	# void nmsg_output_set_buffered(nmsg_output_t output, bool buffered);
 	attach_function :nmsg_output_set_buffered, :nmsg_output_set_buffered, [:pointer,:bool], :void
 	# void nmsg_output_set_filter_msgtype(nmsg_output_t output, unsigned vid, unsigned msgtype);
 	attach_function :nmsg_output_set_filter_msgtype, :nmsg_output_set_filter_msgtype, [:pointer,:int,:int], :void
 	# nmsg_res nmsg_output_set_filter_msgtype_byname(nmsg_output_t output, const char *vname, const char *mname);
-	attach_function :nmsg_output_set_filter_msgtype_byname, :nmsg_output_set_filter_msgtype_byname, [:pointer,:string,:string], :int
+	attach_function :nmsg_output_set_filter_msgtype_byname, :nmsg_output_set_filter_msgtype_byname, [:pointer,:string,:string], Res
 	# void nmsg_output_set_rate(nmsg_output_t output, nmsg_rate_t rate);
 	attach_function :nmsg_output_set_rate, :nmsg_output_set_rate, [:pointer,:pointer], :void
 	# void nmsg_output_set_endline(nmsg_output_t output, const char *endline);

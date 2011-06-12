@@ -3,12 +3,12 @@ module Nmsg
 		layout :input, :pointer,
 		:output, :pointer
 	end
-	
+
 	class CloseEventInOutTypeU < FFI::Union
 		layout :input_type, :int,
 		:output_type, :int
 	end
-	
+
 	class CloseEvent < FFI::Struct
 		layout :inout, CloseEventInOutU,
 		:inout_type, CloseEventInOutTypeU,
@@ -17,7 +17,7 @@ module Nmsg
 		:close_type, :int,
 		:user, :pointer
 	end
-	
+
 	class IO
 		def initialize
 			@io = Nmsg.nmsg_io_init()
