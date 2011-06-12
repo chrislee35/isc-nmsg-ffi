@@ -1,6 +1,20 @@
 = isc-nmsg-ffi
 
-Description goes here.
+The NMSG format is an efficient encoding of typed, structured data
+into payloads which are packed into containers which can be
+transmitted over the network or stored to disk. Each payload is
+associated with a specific message schema. Modules implementing a
+certain message schema along with functionality to convert between
+binary and presentation formats can be loaded at runtime by
+libnmsg. nmsgtool provides a command line interface to control the
+transmission, storage, creation, and conversion of NMSG payloads.
+
+== Usage
+require 'isc-nmsg-ffi'
+input = Nmsg::Input::File.new("../test/test.nmsg")
+input.loop do |msg, usr|
+puts msg.time+" "+msg.to_hash['srcip']
+end
 
 == Contributing to isc-nmsg-ffi
  

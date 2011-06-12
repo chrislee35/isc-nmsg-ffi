@@ -1,0 +1,6 @@
+require 'isc-nmsg-ffi/nmsg'
+require 'isc-nmsg-ffi/message'
+require 'isc-nmsg-ffi/input'
+require 'isc-nmsg-ffi/output'
+require 'isc-nmsg-ffi/io'
+require 'isc-nmsg-ffi/msgmod'
