@@ -1,5 +1,7 @@
 = isc-nmsg-ffi
 
+This library is still broken due to a bug with ruby when calling nmsg_io_loop(). Until I find a workaround, please don't extend this code.
+
 The NMSG format is an efficient encoding of typed, structured data
 into payloads which are packed into containers which can be
 transmitted over the network or stored to disk. Each payload is
