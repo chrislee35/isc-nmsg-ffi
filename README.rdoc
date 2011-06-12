@@ -10,11 +10,13 @@ libnmsg. nmsgtool provides a command line interface to control the
 transmission, storage, creation, and conversion of NMSG payloads.
 
 == Usage
-require 'isc-nmsg-ffi'
-input = Nmsg::Input::File.new("../test/test.nmsg")
-input.loop do |msg, usr|
-puts msg.time+" "+msg.to_hash['srcip']
-end
+  require 'isc-nmsg-ffi'
+  input = Nmsg::Input::File.new("test/test.nmsg")
+  output = Nmsg::Output::Pres.new("test/test.pres")
+  input.loop do |msg, usr|
+    puts msg.time.to_s+"\t"+msg.srcip.to_s
+    output.write(msg)
+  end
 
 == Contributing to isc-nmsg-ffi
  

@@ -1,0 +1,491 @@
+[208] [2011-05-30 23:59:59.976026699] [1:4 ISC http] [00000000] [(null)] [(null)] 
+type: sinkhole
+srcip: 190.49.157.231
+srcport: 9085
+dstip: 149.20.56.34
+dstport: 80
+request:
+GET /search?q=0 HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; MEGAUPLOAD 1.0)
+Host: 149.20.56.34
+Pragma: no-cache
+
+.
+
+[184] [2011-05-30 23:58:03.351270894] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 12.33.204.210
+srcport: 11541
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET /4vir/antispyware/loadadv.exe HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[157] [2011-05-30 23:58:03.351669677] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 113.162.179.174
+srcport: 52414
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[156] [2011-05-30 23:58:03.352919899] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 113.162.79.3
+srcport: 1846
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[184] [2011-05-30 23:58:03.353274897] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 61.85.68.106
+srcport: 2413
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET /4vir/antispyware/loadadv.exe HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[234] [2011-05-30 23:58:03.354315008] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 189.171.185.47
+srcport: 60699
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.1
+Via: 1.0 ISAOBREGON
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; .NET CLR 2.0.50727)
+Host: trafficconverter.biz
+Pragma: no-cache
+Connection: Keep-Alive
+
+.
+
+[196] [2011-05-30 23:58:03.354564285] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 38.102.196.66
+srcport: 22073
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[228] [2011-05-30 23:58:03.354913648] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 187.41.33.51
+srcport: 60433
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET /4vir/antispyware/loadadv.exe HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 2.0.50727)
+Host: trafficconverter.biz
+Cache-Control: no-cache
+
+.
+
+[157] [2011-05-30 23:58:03.355220935] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 61.16.232.71
+srcport: 37066
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[248] [2011-05-30 23:58:03.355524790] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 222.254.51.44
+srcport: 2979
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET /4vir/antispyware/loadadv.exe HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[172] [2011-05-30 23:58:03.355586364] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 212.200.65.122
+srcport: 48589
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[249] [2011-05-30 23:58:03.355914503] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 59.99.40.19
+srcport: 3799
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET /4vir/antispyware/loadadv.exe HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB7.0; chromeframe/11.0.696.71; .NET CLR 2.0.50727; InfoPath.2)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[152] [2011-05-30 23:58:03.355971100] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 64.132.61.30
+srcport: 49379
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[175] [2011-05-30 23:59:59.978319849] [1:4 ISC http] [00000000] [(null)] [(null)] 
+type: sinkhole
+srcip: 92.85.38.193
+srcport: 27669
+dstip: 149.20.56.34
+dstport: 80
+request:
+GET /search?q=0 HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts)
+Host: 149.20.56.34
+Pragma: no-cache
+
+.
+
+[182] [2011-05-30 23:59:59.978765685] [1:4 ISC http] [00000000] [(null)] [(null)] 
+type: sinkhole
+srcip: 123.17.249.165
+srcport: 1539
+dstip: 149.20.56.34
+dstport: 80
+request:
+GET /search?q=36 HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.0)
+Host: 149.20.56.34
+Cache-Control: no-cache
+
+.
+
+[293] [2011-05-30 23:59:59.979298676] [1:4 ISC http] [00000000] [(null)] [(null)] 
+type: sinkhole
+srcip: 190.238.211.175
+srcport: 27804
+dstip: 149.20.56.34
+dstport: 80
+request:
+GET /search?q=1 HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Host: 149.20.56.34
+Pragma: no-cache
+
+.
+
+[331] [2011-05-30 23:59:59.980538134] [1:4 ISC http] [00000000] [(null)] [(null)] 
+type: sinkhole
+srcip: 189.34.19.140
+srcport: 28514
+dstip: 149.20.56.34
+dstport: 80
+request:
+GET /search?q=345 HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+Host: 149.20.56.34
+Pragma: no-cache
+Via: 1.0 hp-firewall.futuravolks.com.br:3128 (squid/2.5.STABLE12)
+X-Forwarded-For: 10.1.1.250
+Cache-Control: max-age=259200
+Connection: keep-alive
+
+.
+
+[190] [2011-05-30 23:59:59.981353265] [1:4 ISC http] [00000000] [(null)] [(null)] 
+type: sinkhole
+srcip: 152.26.20.72
+srcport: 28478
+dstip: 149.20.56.34
+dstport: 80
+request:
+GET /search?q=0 HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.2)
+Host: 149.20.56.34
+Pragma: no-cache
+
+.
+
+[228] [2011-05-30 23:59:59.981886815] [1:4 ISC http] [00000000] [(null)] [(null)] 
+type: sinkhole
+srcip: 91.79.11.225
+srcport: 3397
+dstip: 149.20.56.34
+dstport: 80
+request:
+GET /search?q=0 HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; MRSPUTNIK 2, 4, 0, 238; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)
+Host: 149.20.56.34
+Pragma: no-cache
+
+.
+
+[164] [2011-05-30 23:58:03.356373285] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 183.91.8.200
+srcport: 1823
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB7.0)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[157] [2011-05-30 23:58:03.356654150] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 189.190.205.163
+srcport: 21254
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[160] [2011-05-30 23:58:03.356827486] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 189.176.154.205
+srcport: 56018
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; GTB6.6)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[190] [2011-05-30 23:58:03.356928135] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 117.39.28.18
+srcport: 1413
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[184] [2011-05-30 23:58:03.356932962] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 115.178.53.42
+srcport: 13451
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET /4vir/antispyware/loadadv.exe HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[175] [2011-05-30 23:58:03.356936398] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 91.116.142.2
+srcport: 1763
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[171] [2011-05-30 23:58:03.357425133] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 212.143.128.85
+srcport: 1473
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)
+Host: trafficconverter.biz
+Cache-Control: no-cache
+
+.
+
+[258] [2011-05-30 23:58:03.357598397] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 65.96.140.150
+srcport: 33316
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[205] [2011-05-30 23:58:03.357712861] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 74.113.222.2
+srcport: 33568
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET /4vir/antispyware/loadadv.exe HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[234] [2011-05-30 23:58:03.358009732] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 189.171.185.47
+srcport: 60815
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.1
+Via: 1.0 ISAOBREGON
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; .NET CLR 2.0.50727)
+Host: trafficconverter.biz
+Pragma: no-cache
+Connection: Keep-Alive
+
+.
+
+[177] [2011-05-30 23:58:03.358368966] [1:4 ISC http] [ce058cba] [(null)] [(null)] 
+type: sinkhole
+srcip: 190.77.94.113
+srcport: 61499
+dstip: 204.152.184.139
+dstport: 80
+request:
+GET / HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+Host: trafficconverter.biz
+Pragma: no-cache
+
+.
+
+[158] [2011-05-30 23:59:59.982531825] [1:4 ISC http] [00000000] [(null)] [(null)] 
+type: sinkhole
+srcip: 177.39.72.85
+srcport: 1428
+dstip: 149.20.56.34
+dstport: 80
+request:
+GET /search?q=3 HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: 149.20.56.34
+Pragma: no-cache
+
+.
+
+[179] [2011-05-30 23:59:59.983155883] [1:4 ISC http] [00000000] [(null)] [(null)] 
+type: sinkhole
+srcip: 71.243.246.56
+srcport: 7978
+dstip: 149.20.56.34
+dstport: 80
+request:
+GET /search?q=567 HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+Host: 149.20.56.34
+Pragma: no-cache
+
+.
+
+[330] [2011-05-30 23:59:59.984972469] [1:4 ISC http] [00000000] [(null)] [(null)] 
+type: sinkhole
+srcip: 189.34.19.140
+srcport: 13494
+dstip: 149.20.56.34
+dstport: 80
+request:
+GET /search?q=345 HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+Host: 149.20.56.34
+Pragma: no-cache
+Via: 1.0 hp-firewall.futuravolks.com.br:3128 (squid/2.5.STABLE12)
+X-Forwarded-For: 10.1.1.250
+Cache-Control: max-age=259200
+Connection: keep-alive
+
+.
+
+[193] [2011-05-30 23:59:59.986551052] [1:4 ISC http] [00000000] [(null)] [(null)] 
+type: sinkhole
+srcip: 201.250.181.252
+srcport: 24471
+dstip: 149.20.56.34
+dstport: 80
+request:
+GET /search?q=0 HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322)
+Host: 149.20.56.34
+Cache-Control: no-cache
+
+.
+
+[182] [2011-05-30 23:59:59.986934035] [1:4 ISC http] [00000000] [(null)] [(null)] 
+type: sinkhole
+srcip: 123.17.249.165
